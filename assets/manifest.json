@@ -1,0 +1,6 @@
+{
+  "name": "iOS Blur Demo",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/"
+}
