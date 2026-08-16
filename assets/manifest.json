@@ -1,6 +1,6 @@
 {
   "name": "iOS Blur Demo",
   "display": "standalone",
-  "start_url": "/",
-  "scope": "/"
+  "start_url": "/ios-statusbar-blur/",
+  "scope": "/ios-statusbar-blur/"
 }
